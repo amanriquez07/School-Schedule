@@ -1,0 +1,12 @@
+table, th, td{
+    border: 1px solid black;
+}
+body{
+    background-image: url(https://3.files.edl.io/ff1d/22/08/23/134601-f809de6f-021c-4971-9b52-932a340b23a7.jpg);
+}
+table{
+    background-color: lightpink;
+}
+#special{
+    color:darkblue;
+}
